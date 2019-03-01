@@ -1,6 +1,6 @@
 # Build your say_hello method here
 def say_hello (name = "Ruby programmer")
-  puts "Hello #{Kent Beck}!"
+  puts "Hello #{name}!"
 end  
 
 puts say_hello
